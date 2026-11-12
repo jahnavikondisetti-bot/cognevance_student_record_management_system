@@ -1,0 +1,16 @@
+[
+    {
+        "student_id": "102",
+        "name": "Jahnavi",
+        "age": 17,
+        "course": "CSE(AIML)",
+        "marks": 99.0
+    },
+    {
+        "student_id": "103",
+        "name": "Sagar",
+        "age": 19,
+        "course": "CSE(AIML)",
+        "marks": 97.0
+    }
+]
