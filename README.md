@@ -236,15 +236,26 @@ Through this project, I practiced:
 
 ---
 
-## 👨‍💻 Author
-Kondisetty Jahnavi
+## 👨‍💻 Internship Details
 
-**Python Programming Intern**
+**Organization:** Cognevance Technologies
 
-**Cognevance Technologies**
+**Project:** Cognevance Student Record Management System
+
+**Domain:** Python Development
+
+**Level:** Level 1
 
 ---
 
-## 📄 License
+## 👨‍💻 Author
 
-This project was developed for educational and internship purposes.
+**Kondisetty Jahnavi**
+
+Python Development Intern
+
+---
+
+## 📜 License
+
+This project is developed for educational and internship purposes.
